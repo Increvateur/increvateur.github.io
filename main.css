@@ -4,11 +4,34 @@ body {
 }
 
 h1 {
-	border-bottom: 3px solid black;
+	border-bottom: 5px solid black;
 	font-size: 36px;
 }
 
+h3 {
+	border-bottom: 1px solid black; 
+}
+
 .container {
-    width: 900px;
+    width: 750px;
     margin: auto 
+}
+
+.address li{
+	list-style-type: none;
+	display: inline;
+}
+
+.date {
+	float: right;
+}
+.skills-1 {
+	width: 175px;
+	float: left;
+	margin-bottom: 20px;
+}
+.skills-2 {
+	width: 575px;
+	float: left;
+	margin-bottom: 20px;
 }
