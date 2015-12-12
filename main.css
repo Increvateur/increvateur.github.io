@@ -17,11 +17,6 @@ h3 {
     margin: auto 
 }
 
-.address li{
-	list-style-type: none;
-	display: inline;
-}
-
 .date {
 	float: right;
 }
