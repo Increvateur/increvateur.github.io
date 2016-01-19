@@ -6,6 +6,11 @@ body {
 	background-image: url('images/lightpattern.jpg');
 }
 
+main {
+    width: 750px;
+    margin: auto 
+}
+
 h1 {
 	border-bottom: 5px solid black;
 	font-size: 36px;
@@ -13,11 +18,6 @@ h1 {
 
 h3 {
 	border-bottom: 1px solid black; 
-}
-
-main {
-    width: 750px;
-    margin: auto 
 }
 
 .date {
