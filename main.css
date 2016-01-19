@@ -1,6 +1,9 @@
+@font-face {
+	font-family: "Times New Roman", Times, serif;
+}
+
 body {
 	background-image: url('images/lightpattern.jpg');
-	font-family: "Times New Roman", Times, serif;
 }
 
 h1 {
@@ -12,7 +15,7 @@ h3 {
 	border-bottom: 1px solid black; 
 }
 
-.container {
+main {
     width: 750px;
     margin: auto 
 }
@@ -25,6 +28,7 @@ h3 {
 	width: 175px;
 	float: left;
 	margin-bottom: 20px;
+	font-style: italic;
 }
 
 .skills-2 {
